@@ -919,6 +919,16 @@ a:not([href]):not([tabindex]):focus, a:not([href]):not([tabindex]):hover {
   color: #fff;
 }
 
+#dropdownMenuLink {
+  background-color: #daa520;
+  border: none;
+}
+
+.dropdown-item:hover {
+  color: #daa520;
+}
+
+
 /* Services Item */
 .services {
   background: #F0F0F0;
