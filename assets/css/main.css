@@ -92,7 +92,7 @@ ul li, ol li {
 }
 
 .section-title-header p {
-  text: center;
+  text-align: center;
   font-weight: 400;
   line-height: 26px;
   padding-bottom: 36px;
@@ -125,11 +125,24 @@ ul li, ol li {
   display: inline-block;
 }
 
+.btn-outline-secondary{ 
+  color:#daa520;
+}
+
+.btn-secondary:hover,
+.btn-secondary:active {
+  background-color: #e4b34d;
+
+}
+
 .btn:focus,
 .btn:active {
   box-shadow: none;
   outline: none;
   color: #fff;
+}
+.buttons {
+  text-align: center;
 }
 
 .btn-common {
