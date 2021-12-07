@@ -1,58 +1,74 @@
-{
-    "cidades": [
-        {
-            "id": 1,
-            "city": "Natal",
-            "state": "RN",
-            "country": "Brasil"
-        },
-        {
-            "id": 2,
-            "city": "João Pessoa",
-            "state": "PB",
-            "country": "Brasil"
-        },
-        {
-            "id": 3,
-            "city": "Recife",
-            "state": "PE",
-            "country": "Brasil"
-        },
-        {
-            "id": 4,
-            "city": "Maceió",
-            "state": "AL",
-            "country": "Brasil"
-        },
-        {
-            "id": 5,
-            "city": "Salvador",
-            "state": "BA",
-            "country": "Brasil"
-        },
-        {
-            "id": 6,
-            "city": "Belo Horizonte",
-            "state": "MG",
-            "country": "Brasil"
-        },
-        {
-            "id": 7,
-            "city": "Rio de Janeiro",
-            "state": "RJ",
-            "country": "Brasil"
-        },
-        {
-            "id": 8,
-            "city": "São Paulo",
-            "state": "SP",
-            "country": "Brasil"
-        },
-        {
-            "id": 9,
-            "city": "Fortaleza",
-            "state": "CE",
-            "country": "Brasil"
-        }
-    ]
-}
+[
+    {
+        "id": 1,
+        "city": "Natal",
+        "state": "RN",
+        "country": "Brasil",
+        "image": "",
+        "link":"https://goo.gl/maps/yHh4dgeiQf38JyCF9"
+    },
+    {
+        "id": 2,
+        "city": "João Pessoa",
+        "state": "PB",
+        "country": "Brasil",
+        "image": "",
+        "link":"https://goo.gl/maps/6XL3GjrRQd4FXH3v9"
+    },
+    {
+        "id": 3,
+        "city": "Recife",
+        "state": "PE",
+        "country": "Brasil",
+        "image": "",
+        "link":"https://goo.gl/maps/pHtspGmKrGjmNEJs7"
+    },
+    {
+        "id": 4,
+        "city": "Maceió",
+        "state": "AL",
+        "country": "Brasil",
+        "image": "",
+        "link":"https://goo.gl/maps/uBDjTND44Sck4FSi9"
+    },
+    {
+        "id": 5,
+        "city": "Salvador",
+        "state": "BA",
+        "country": "Brasil",
+        "image": "",
+        "link":"https://goo.gl/maps/kbtP7gDEKK1hcSXn7"
+    },
+    {
+        "id": 6,
+        "city": "Belo Horizonte",
+        "state": "MG",
+        "country": "Brasil",
+        "image": "",
+        "link":"https://goo.gl/maps/ob4SRVRfaZJE3rM27"
+    },
+    {
+        "id": 7,
+        "city": "Rio de Janeiro",
+        "state": "RJ",
+        "country": "Brasil",
+        "image": "",
+        "link":"https://goo.gl/maps/5TchYPKmTTMJU95D9"
+    },
+    {
+        "id": 8,
+        "city": "São Paulo",
+        "state": "SP",
+        "country": "Brasil",
+        "image": "",
+        "link":"https://goo.gl/maps/iWwtoYtUSRANY4rW7"
+    },
+    {
+        "id": 9,
+        "city": "Fortaleza",
+        "state": "CE",
+        "country": "Brasil",
+        "image": "",
+        "link":"https://goo.gl/maps/SXmJ6C8zahqzwtMz8"
+    }
+]
