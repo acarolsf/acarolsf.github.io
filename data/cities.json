@@ -1,0 +1,58 @@
+{
+    "cidades": [
+        {
+            "id": 1,
+            "city": "Natal",
+            "state": "RN",
+            "country": "Brasil"
+        },
+        {
+            "id": 2,
+            "city": "João Pessoa",
+            "state": "PB",
+            "country": "Brasil"
+        },
+        {
+            "id": 3,
+            "city": "Recife",
+            "state": "PE",
+            "country": "Brasil"
+        },
+        {
+            "id": 4,
+            "city": "Maceió",
+            "state": "AL",
+            "country": "Brasil"
+        },
+        {
+            "id": 5,
+            "city": "Salvador",
+            "state": "BA",
+            "country": "Brasil"
+        },
+        {
+            "id": 6,
+            "city": "Belo Horizonte",
+            "state": "MG",
+            "country": "Brasil"
+        },
+        {
+            "id": 7,
+            "city": "Rio de Janeiro",
+            "state": "RJ",
+            "country": "Brasil"
+        },
+        {
+            "id": 8,
+            "city": "São Paulo",
+            "state": "SP",
+            "country": "Brasil"
+        },
+        {
+            "id": 9,
+            "city": "Fortaleza",
+            "state": "CE",
+            "country": "Brasil"
+        }
+    ]
+}
