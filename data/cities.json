@@ -1,74 +1,90 @@
 [
     {
         "id": 1,
-        "city": "Natal",
+        "name": "Natal",
         "state": "RN",
         "country": "Brasil",
         "image": "",
-        "link":"https://goo.gl/maps/yHh4dgeiQf38JyCF9"
+        "link":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d127020.64259581729!2d-35.29228534091989!3d-5.79974385510055!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7b3aaac26460531%3A0x5d8b404cf00fed69!2sNatal%2C%20State%20of%20Rio%20Grande%20do%20Norte!5e0!3m2!1sen!2sbr!4v1638930723517!5m2!1sen!2sbr"
     },
     {
         "id": 2,
-        "city": "João Pessoa",
+        "name": "João Pessoa",
         "state": "PB",
         "country": "Brasil",
         "image": "",
-        "link":"https://goo.gl/maps/6XL3GjrRQd4FXH3v9"
+        "link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d126682.34216224954!2d-34.95163867681093!3d-7.146433229446369!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7ace839019aa3d7%3A0x6e414a9c6d26db34!2sJo%C3%A3o%20Pessoa%2C%20State%20of%20Para%C3%ADba!5e0!3m2!1sen!2sbr!4v1638930768696!5m2!1sen!2sbr"
     },
     {
         "id": 3,
-        "city": "Recife",
+        "name": "Recife",
         "state": "PE",
         "country": "Brasil",
         "image": "",
-        "link":"https://goo.gl/maps/pHtspGmKrGjmNEJs7"
+        "link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d252836.63053704193!2d-35.074306098855054!3d-8.042947495010738!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7ab196f94e5408b%3A0xe5800ef782bde3a6!2sRecife%2C%20State%20of%20Pernambuco!5e0!3m2!1sen!2sbr!4v1638930806002!5m2!1sen!2sbr"
     },
     {
         "id": 4,
-        "city": "Maceió",
+        "name": "Maceió",
         "state": "AL",
         "country": "Brasil",
         "image": "",
-        "link":"https://goo.gl/maps/uBDjTND44Sck4FSi9"
+        "link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d251776.7868411606!2d-35.82676751698074!3d-9.594208052067396!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x70146fcd6688849%3A0xee2c725b43e07653!2sMacei%C3%B3%2C%20State%20of%20Alagoas!5e0!3m2!1sen!2sbr!4v1638930833057!5m2!1sen!2sbr"
     },
     {
         "id": 5,
-        "city": "Salvador",
+        "name": "Salvador",
         "state": "BA",
         "country": "Brasil",
         "image": "",
-        "link":"https://goo.gl/maps/kbtP7gDEKK1hcSXn7"
+        "link":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d248901.96539532815!2d-38.56019189417282!3d-12.901727727773785!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x716112050422ebd%3A0xf71c84369573db9d!2sSalvador%2C%20State%20of%20Bahia!5e0!3m2!1sen!2sbr!4v1638930136448!5m2!1sen!2sbr"
     },
     {
         "id": 6,
-        "city": "Belo Horizonte",
+        "name": "Belo Horizonte",
         "state": "MG",
         "country": "Brasil",
         "image": "",
-        "link":"https://goo.gl/maps/ob4SRVRfaZJE3rM27"
+        "link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d240097.49509976548!2d-44.10413831735677!3d-19.902338635792344!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xa690cacacf2c33%3A0x5b35795e3ad23997!2sBelo%20Horizonte%2C%20State%20of%20Minas%20Gerais!5e0!3m2!1sen!2sbr!4v1638930864998!5m2!1sen!2sbr"
     },
     {
         "id": 7,
-        "city": "Rio de Janeiro",
+        "name": "Rio de Janeiro",
         "state": "RJ",
         "country": "Brasil",
         "image": "",
-        "link":"https://goo.gl/maps/5TchYPKmTTMJU95D9"
+        "link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d470400.4108250152!2d-43.726182406682895!3d-22.91325246191355!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9bde559108a05b%3A0x50dc426c672fd24e!2sRio%20de%20Janeiro%2C%20State%20of%20Rio%20de%20Janeiro!5e0!3m2!1sen!2sbr!4v1638930890772!5m2!1sen!2sbr"
     },
     {
         "id": 8,
-        "city": "São Paulo",
+        "name": "São Paulo",
         "state": "SP",
         "country": "Brasil",
         "image": "",
-        "link":"https://goo.gl/maps/iWwtoYtUSRANY4rW7"
+        "link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d467692.04889166175!2d-46.875499196479765!3d-23.681531442747694!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce448183a461d1%3A0x9ba94b08ff335bae!2sS%C3%A3o%20Paulo%2C%20State%20of%20S%C3%A3o%20Paulo!5e0!3m2!1sen!2sbr!4v1638930935326!5m2!1sen!2sbr"
     },
     {
         "id": 9,
-        "city": "Fortaleza",
+        "name": "Fortaleza",
         "state": "CE",
         "country": "Brasil",
         "image": "",
-        "link":"https://goo.gl/maps/SXmJ6C8zahqzwtMz8"
+        "link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d127394.5026302701!2d-38.5896564584202!3d-3.79314033041643!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7c74c3f464c783f%3A0x4661c60a0c6b37ca!2sFortaleza%20-%20State%20of%20Cear%C3%A1!5e0!3m2!1sen!2sbr!4v1638930962991!5m2!1sen!2sbr"
+    },
+    {
+        "id": 10,
+        "name": "Teresina",
+        "state": "PI",
+        "country": "Brasil",
+        "image": "",
+        "link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d254340.08499092946!2d-42.88116732609341!3d-5.0933824549466085!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x78e32519a8599c7%3A0xd4483d47c29fd9c6!2sTeresina%2C%20State%20of%20Piau%C3%AD!5e0!3m2!1sen!2sbr!4v1638931033456!5m2!1sen!2sbr"
+    },
+    {
+        "id": 11,
+        "name": "Brasilia",
+        "state": "DF",
+        "country": "Brasil",
+        "image": "",
+        "link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d245795.96135380736!2d-48.07744639442275!3d-15.721386971424437!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x935a3d18df9ae275%3A0x738470e469754a24!2sBras%C3%ADlia%20-%20Brasilia%2C%20Federal%20District!5e0!3m2!1sen!2sbr!4v1638931058590!5m2!1sen!2sbr"
     }
 ]
