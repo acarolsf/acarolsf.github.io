@@ -3,6 +3,11 @@ html {
     font-size: 18px;
 }
 
+.download-button {
+    margin: auto;
+    text-align: center;
+}
+
 .italic { font-style: italic; }
 
 .author {
