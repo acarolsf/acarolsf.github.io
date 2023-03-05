@@ -3,6 +3,17 @@ html {
     font-size: 18px;
 }
 
+.italic { font-style: italic; }
+
+.author {
+    text-align: right;
+    line-height: normal;
+}
+.author .name, .author .email, .author .date {
+    margin: 0;
+    padding: 0;
+}
+
 .card {
     margin: 24px;
     padding: 16px;
