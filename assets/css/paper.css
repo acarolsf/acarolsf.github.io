@@ -7,13 +7,17 @@ html {
     margin: 24px;
     padding: 16px;
     border-radius: 20px;
-    box-shadow: 8px 8px 10px #edcb74;
+    box-shadow: 8px 8px 10px #c2cceb;
 
 }
 
 .card-title {
     display: flex;
     justify-content: space-between;
+}
+
+.card-title button {
+    border-radius: 50px;
 }
 
 .images {
