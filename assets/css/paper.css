@@ -1,0 +1,46 @@
+html {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+}
+
+.card {
+    margin: 24px;
+    padding: 16px;
+    border-radius: 20px;
+    box-shadow: 8px 8px 10px #edcb74;
+
+}
+
+.card-title {
+    display: flex;
+    justify-content: space-between;
+}
+
+.images {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.images img {
+    width: 80%;
+    border-radius: 20px;
+    box-shadow: 4px 4px 10px #999;
+}
+
+.images div {
+    margin-bottom: 24px;
+}
+
+@media screen and (max-width: 768px) {
+    .images {
+        display: block;
+    }
+
+    .images img {
+        width: 100%;
+    }
+}
+
+#content-screens {
+    padding: 0 16px 16px 0;
+}
